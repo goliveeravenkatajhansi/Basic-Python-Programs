@@ -1,0 +1,8 @@
+a=(2,53,3)
+b=[56,656,643,32]
+c={56,85,36}
+dict1={'one':1,'two':2}
+print("list:",a)
+print("tuple:",b)
+print("set:",c)
+print("dictionary",dict1)
