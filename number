@@ -1,0 +1,4 @@
+num1=int(input("enter num1"))
+num2=int(input("enter num2"))
+print("1 number is",num1)
+print("2 number is",num2)
