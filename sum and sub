@@ -1,0 +1,6 @@
+a=10
+b=42
+print("add:",a+b)
+print("sub:",a-b)
+print("multiply:",a*b)
+print("div:",a/b)
