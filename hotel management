@@ -1,0 +1,20 @@
+print("WELCOME TO FOOD DELIVERY SYSTEM")
+menu=input("enter the menu")
+if(menu=="tiffin items"):
+  print("u should pay 100 rupees")
+  print("\nthe orders available are 2 quantity")
+quant=input("enter the 2 quantity available")
+if(quant=="idly and dosa"):
+  print("u should pay 100 rupees")
+elif(quant="idly" or quant="dosa"):
+  print("pay 50 rupees")
+else:
+  print("not available")
+elif(menu=="meals"):
+  print("150 rupees")
+elif(menu=="dinner"):
+  print("juice items")
+  print("\nsnacks")
+else:
+  print("show all the menu")
+  print("show my order")
