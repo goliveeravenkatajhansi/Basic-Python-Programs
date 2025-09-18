@@ -1,0 +1,10 @@
+a=int(input("enter the a value"))
+if(a==2):
+  print("feb 28 or 29")
+elif(a in (4,6,9,11)):
+  print("30 days")
+elif(a in (2,3,5,7,8,10,12)):
+  print("31 days")
+else:
+  print("invalid")
+
