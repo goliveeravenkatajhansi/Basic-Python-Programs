@@ -1,0 +1,7 @@
+a=input("enter the age")
+if(a<10)
+print("child")
+elif(a<=10 and a<=30)
+print("teenage")
+else:
+print("old age")
