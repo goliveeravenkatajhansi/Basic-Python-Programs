@@ -1,0 +1,13 @@
+a=int(input("entre the a:"))
+b=int(input("entre the b:"))
+c=input("enter the operation:")
+if(c=="sum"):
+  print("sum:",a+b)
+elif(c=="sub"):
+  print("sub:",a-b)
+elif(c=="multiply"):
+  print("multiply:",a*b)
+elif(c=="div"):
+  print("div:",a/b)
+else:
+  print("invalid")
