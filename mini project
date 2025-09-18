@@ -1,0 +1,13 @@
+print("WELCOME TO FOOD DELIVERY SYSTEM")
+menu=input("enter the menu")
+if(menu=="tiffin items"):
+  print("u should pay 100 rupees")
+  print("\nthe orders available are 2 quantity")
+elif(menu=="meals"):
+  print("150 rupees")
+elif(menu=="dinner"):
+  print("juice items")
+  print(\n"snacks")
+else:
+  print("show all the menu")
+  print("show my order")
