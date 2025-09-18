@@ -1,0 +1,12 @@
+username="jhansi"
+password=274
+user1=input("enter the user1")
+if(user1!="username"):
+  print("wrong user")
+else:
+  print("write username")
+pass1=int(input("entre the pass1"))
+if(pass1!="password"):
+  print("wrong password")
+else:
+  print("right password")
